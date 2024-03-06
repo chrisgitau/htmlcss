@@ -1,3 +1,51 @@
 *{
     background-color: darkcyan;
+    font-style: italic;
+    font-size: medium;
+    align-items: center;
+h1{
+    font-size:larger;
+    font-style: inherit;
+    font-weight: 400;
+    
 }
+h2{
+    font-size: xx-large;
+    font-weight: 200;
+    font-style: oblique;
+}
+h3{
+    font-size: small;
+    font-weight: 500;
+}
+h4{
+    font-size: larger;
+    font-style: normal;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.motivation{
+    color: blue;
+    font-size: larger;
+    font-weight: bold;
+}
+.paral{
+    color: chartreuse;
+    font-size: smaller;
+    font-style: unset;
+    font-weight: bolder;
+}
+.copyright{
+    color: coral;
+    font-size: xx-large;
+    font-weight: bolder;
+    font-style: oblique;
+}
+h2{
+    color: darkblue;
+    font-size: larger;
+    font-weight: bold;
+    font-style: oblique;
+}
+
+
